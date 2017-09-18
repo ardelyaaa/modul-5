@@ -1,7 +1,7 @@
 # modul-5
 
-Nama : Ardelya Nastiti Laila Hani
-Kelas : XI RPL 5
+Nama : Ardelya Nastiti Laila Hani <br>
+Kelas : XI RPL 5 <br>
 Absen : 11
 
 latihan 1 : <br>
